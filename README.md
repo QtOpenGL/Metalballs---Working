@@ -1,5 +1,6 @@
 # Metaballs
-
+![image](./1.PNG)
+![image](./2.PNG)
 ##DISCLAIMER
 I did not write this code. You can access the original code [HERE] (https://github.com/douglassboshkoff/metaballs) 
 
