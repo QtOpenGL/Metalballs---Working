@@ -1,6 +1,9 @@
 # Metaballs
 
 ##DISCLAIMER
+I did not write this code. You can access the original code [HERE] (https://github.com/douglassboshkoff/metaballs) 
+
+##DISCLAIMER
 I did not write some of this code. It was provided as boilerplate code in my graphics class taught at Swarthmore. The main files that
 my partner and I created/modified were circle.h, circle.cpp, mypanelopengl.h, mypanelopengl.cpp, and the fragment and vertex shaders in the shaders directory. I do 
 not claim to know how cmake works, and some of the helper classes such as the printmatrix and mainwindow files were provided by our instructor. 
